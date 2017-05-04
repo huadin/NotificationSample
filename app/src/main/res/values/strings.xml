@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NotificationSample</string>
+    <string name="basic">基本Notification</string>
+    <string name="collapsed">折叠式Notification</string>
+    <string name="show">展开的通知</string>
+    <string name="headsup">悬挂式Notification</string>
+    <string name="grade">等级Notification</string>
+</resources>
